@@ -1,7 +1,7 @@
 package block1.pract1;
 
 
-import java.util.Scanner; // импортируем класс
+import java.util.Scanner;
 
 
 public class pract13 {
@@ -16,7 +16,7 @@ public class pract13 {
             c+=b[i];
             z=(double) c/b.length;
         }
-        System.out.println("реднее арифметическое: "+z);
+        System.out.println("среднее арифметическое: "+z);
         System.out.println("сумма чисел масива: "+c);
     }
 }

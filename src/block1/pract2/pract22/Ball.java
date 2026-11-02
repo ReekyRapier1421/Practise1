@@ -1,7 +1,8 @@
 package block1.pract2.pract22;
 
 
-public class Ball {
+public class
+Ball {
     private double x=0.0;
     private double y=0.0;
 

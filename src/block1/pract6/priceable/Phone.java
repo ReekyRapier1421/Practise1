@@ -1,6 +1,7 @@
 package block1.pract6.priceable;
 
-public class Phone implements Priceable {
+public class
+Phone implements Priceable {
     private String model;
     private int memory;
     private double price;
